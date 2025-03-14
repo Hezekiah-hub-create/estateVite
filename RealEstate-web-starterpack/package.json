@@ -1,5 +1,5 @@
 {
-  "name": "realestate-web-starterpack",
+  "name": "realestate",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,11 +10,13 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "framer-motion": "^12.5.0",
     "react": "^19.0.0",
     "react-accessible-accordion": "^5.0.0",
     "react-countup": "^6.5.3",
     "react-dom": "^19.0.0",
     "react-icons": "^5.5.0",
+    "react-outside-click-handler": "^1.3.0",
     "react-swiper": "^0.1.5",
     "swiper": "^11.2.5"
   },
